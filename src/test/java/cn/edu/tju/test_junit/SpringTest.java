@@ -29,6 +29,7 @@ public class SpringTest {
 	@Before
 	public void before() {
 		session = sessionFactory.openSession();
+		
 	}
 	
 	@After

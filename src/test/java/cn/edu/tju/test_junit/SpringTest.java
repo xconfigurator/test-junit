@@ -43,8 +43,6 @@ public class SpringTest {
 	public void test() {
 		System.out.println(date);// 测试Spring基本容器
 		System.out.println(sessionFactory);//  测试Hibernate的SessionFactory是否初始化
-		
-		
 	}
 
 }

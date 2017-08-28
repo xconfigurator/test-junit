@@ -4,7 +4,7 @@
 <hibernate-configuration>
 	<session-factory name="sessionFactory">
 		<property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>
-		<property name="hibernate.connection.password">oa177es9</property>
+		<property name="hibernate.connection.password">12345</property>
 		<property name="hibernate.connection.url">jdbc:mysql://localhost:3306/test</property>
 		<property name="hibernate.connection.username">liuyang</property>
 		<property name="hibernate.default_schema">test</property>
